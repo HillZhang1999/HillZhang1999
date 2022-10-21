@@ -9,3 +9,4 @@ My name is Yue Zhang (章岳). You can call me Yue or Hill (岳 means hill in Ch
 
 View my [homepage](https://hillzhang1999.github.io/).
 
+[![Hill's GitHub stats](https://github-readme-stats.vercel.app/api?username=HillZhang1999)](https://github.com/anuraghazra/github-readme-stats)
